@@ -77,9 +77,9 @@ Bu depo (repository), staj süreniz boyunca tamamlamanız gereken temel web tekn
 ### 🚀 Bölüm 8: Next.js (22-25. Gün)
 * **Görev:** Next.js App Router yapısını kullanarak çok sayfalı basit bir web sitesi yapın.
 * **Beklentiler:**
-  - [ ] Sıfırdan bir Next.js projesi kurun.
-  - [ ] Klasör yapısını kullanarak `Ana Sayfa`, `Hakkımızda` ve `İletişim` sayfalarını oluşturun.
-  - [ ] Next.js'in kendi `<Link>` bileşenini kullanarak sayfalar arasında sayfa yenilenmeden geçiş yapılmasını sağlayın.
+  - [x] Sıfırdan bir Next.js projesi kurun.
+  - [x] Klasör yapısını kullanarak `Ana Sayfa`, `Hakkımızda` ve `İletişim` sayfalarını oluşturun.
+  - [x] Next.js'in kendi `<Link>` bileşenini kullanarak sayfalar arasında sayfa yenilenmeden geçiş yapılmasını sağlayın.
 
 ---
 
