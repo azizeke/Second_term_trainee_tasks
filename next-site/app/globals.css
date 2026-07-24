@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f4f6fb;
+}
+
+.navbar {
+  display: flex;
+  gap: 20px;
+  padding: 16px 24px;
+  background: #2575fc;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.content {
+  padding: 40px 24px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.content h1 {
+  margin-bottom: 12px;
+  color: #2575fc;
+}
